@@ -1,0 +1,150 @@
+URL,Abstract,NumCited,"Author, Year, Source Information",Title
+http://www.sciedupress.com/journal/index.php/air/article/view/1390,"...  tag attributes by using a dictionary-like syntax.  Scraping  is performed by using  Python 
+libraries provided by HTMLParser and Beautiful Soup. The adopted  Web   scraping 
+techniques will be explained in details in Section 3.2.  ...  
+",Cited by 20,"E Vargiu, M Urru - Artificial Intelligence Research, 2012 - sciedupress.com",Exploiting web scraping in a collaborative filtering-based approach to web advertising
+https://books.google.com/books?hl=en&lr=&id=OUDfCQAAQBAJ&oi=fnd&pg=PP1&dq=+python+web+scraping&ots=WIZyBwmgIa&sig=qzVyV5d8LxCVNYuOlIOHOto_8zs,"Learn  web scraping  and crawling techniques to access unlimited data from any  web  source  in any format. With this practical guide, you'll learn how to use  Python  scripts and  web  APIs  to gather and process data from thousands—or even millions—of  web  pages at once. Ideal ",Cited by 9,R Mitchell - 2015 - books.google.com,Web scraping with Python: collecting data from the modern web
+http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=1008839,"...  org and EVDB domain name speculation --> search engine optimization page views --> cost 
+per click screen  scraping  -->  web  services publishing  ...  of the  web  - including the Linux, Apache, 
+MySQL, and Perl, PHP, or  Python  code involved in most  web  servers - relies on  ...  
+",Cited by 11148,"T O'reilly - Communications & strategies, 2007 - papers.ssrn.com",What is Web 2.0: Design patterns and business models for the next generation of software
+https://books.google.com/books?hl=en&lr=&id=2XliiK7FKoEC&oi=fnd&pg=PR1&dq=+python+web+scraping&ots=krmAv_6Wm2&sig=pmZpp--4fsUS4uCag6vM8YeX8q4,"...   web  for information. The examples in this chapter include anonymously browsing 
+the  web  via  Python , working with developer APIs,  scraping  popular social media 
+sites, and creating a spear-phishing email. Chapter 7: Antivirus  ...  
+",Cited by 17,TJ O'Connor - 2012 - books.google.com,"Violent Python: a cookbook for hackers, forensic analysts, penetration testers and security engineers"
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.654.745&rep=rep1&type=pdf,"...  2.5 WWW-Mechanize WWW-Mechanize 6 is a Perl library for simulating a  web  browser session.  ... 
+support high-level  scraping  itself but is often used as part of a  scraping  solution because  ...  2.6 
+TemplateMaker TemplateMaker 7 is a  Python  library that takes a dif- ferent approach to  ...  
+",Cited by 7,"RB Penman, T Baldwin, D Martinez - 2009 - Citeseer",Web scraping made simple with sitescraper
+http://bib.oxfordjournals.org/content/15/5/788.short,"...  For example, Scrapy (http://scrapy.org) is a powerful  Web   scraping  framework for  Python , 
+where robots are defined as classes inheriting from BaseSpider class, which defines a set 
+of 'starting urls' and a 'parse' function called at each  Web  iteration.  ...  
+",Cited by 6,"D Glez-Peña, A Lourenço… - Briefings in  …, 2014 - Oxford Univ Press",Web scraping technologies in an API world
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.870&rep=rep1&type=pdf,"...  The alternative for accessing these data is to extract the information from browser pages intended 
+for human viewing, known as “ web   scraping .” This approach is brittle  ...  Their existence speaks to 
+the ubiquity of the technologies  Web  services are built on;  Python  mod- ules  ...  
+",Cited by 51,"M Zadel, I Fujinaga - ISMIR, 2004 - Citeseer",Web Services for Music Information Retrieval.
+https://www.google.com/patents/US20100083095,"...  Java offers support for  web   scraping  techniques, by leveraging the W3C's XQuery specification. 
+ Python  and Ruby also have libraries for  web   scraping . [0010]. The methods for extracting data 
+from  web  pages generally fall into two main categories: supervised and unsupervised.  ...  
+",Cited by 18,"DN Nikovski, AW Esenther - US Patent App. 12/239,859, 2008 - Google Patents",Method for Extracting Data from Web Pages
+http://dl.acm.org/citation.cfm?id=2631879,"...  For videos with less than 100 days, daily sampled data were provided. In our data  scraping 
+process we have been able to measure up to 2352 samples for a video.  ...  YOUStatAnalyzer uses 
+ Web - Driver Selenium for  Python  5 in order to simulate the Fire- box browser.  ...  
+",Cited by 9,"M Zeni, D Miorandi, F De Pellegrini - Proceedings of the 7th International …, 2013 - dl.acm.org",YOUStatAnalyzer: a tool for analysing the dynamics of YouTube content popularity
+https://books.google.com/books?hl=en&lr=&id=IJujVHf86PgC&oi=fnd&pg=PT7&dq=+python+web+scraping&ots=qX6gso-nCf&sig=NQ0UrDbfxveO8VvNMzI6dLn0O-E,"...  There's more... Page 5. Instant  Web   Scraping  with Java Page 6. Instant  Web   Scraping  with Java 
+Copyright © 2013 Packt Publishing All rights reserved.  ...  Page 10. About the Author Ryan Mitchell 
+has ten years of programming experience, including Java, C, Perl, PHP, and  Python .  ...  
+",Cited by 4,R Mitchell - 2013 - books.google.com,Instant Web Scraping with Java
+https://ejournals.bc.edu/ojs/index.php/ital/article/view/3146,"...  As with all screen- scraping  approaches, the code performing the  scraping  must be updated if 
+the output format provided by the OPAC changes.  ...  Like the Tictoclookup  Web  service, we 
+implemented the MAJAX 2  Web  service using  Python  conformant to WSGI.  ...  
+",Cited by 11,"G Back, A Bailey - Information Technology and Libraries, 2013 - ejournals.bc.edu",Web services and widgets for library information systems
+https://www.researchgate.net/profile/Antonio_Piccinno/publication/237088704_Software_Shaping_Workshops_Environments_to_Support_End-User_Development/links/02e7e52e10be129312000000.pdf#page=66,"...   scraping  to try to stuff the ballot box for baseball's 1999 All-Star Game ballot [2]. The component 
+of a  web  screen scraper that interprets a  web  page and extracts information from it is called a 
+wrapper. Many wrappers are written by hand in scripting languages like Perl or  Python ,  ...  
+",Cited by 23,"RC Miller - IST PROGRAMME, 2003 - researchgate.net",End user programming for web users
+https://books.google.com/books?hl=en&lr=&id=NpEk_WFCMdIC&oi=fnd&pg=PT3&dq=+python+web+scraping&ots=OYTyT3hBFW&sig=mqt0n_zhlDFsjT1y4sGYNxTS48g,"...  EVDB domain name speculation --> search engine optimization page views --> cost per click 
+screen  scraping  -->  web  services publishing  ...  infrastructure of the  web »including the Linux, Apache, 
+MySQL, and Perl,PHP, or  Python  code involved inmost  web  servers»relies  ...  
+",Cited by 1144,T o'Reilly - 2009 - books.google.com,What is web 2.0
+http://www.mirlab.org/conference_papers/International_Conference/ISMIR%202010/ISMIR_2010_papers/ismir2010-32.pdf,"...   Web   scraping  and  web  services provide one an- gle, sourcing data from 
+allmusic.com, and utilising  python  APIs for last.fm, EchoNest, and MusicBrainz.  ... 
+Programs were written in  python  to utilise the APIs, and for  web   scraping .  ...  
+",Cited by 16,"N Collins - ISMIR, 2010 - mirlab.org",Computational Analysis of Musical Influence: A Musicological Case Study Using MIR Tools.
+http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201211039.htm,In this paper  web scraping  technologies are discussed. The advantages of  Web  data  collection technology for high speed and accuracy conversion of unstructured data into  structured data are pointed out. The principles of the  web scraping  at HTTP level are ,Cited by 1,"P Qi, Y Li, Y Song - Electronic Science and Technology, 2012 - en.cnki.com.cn",Research on Python-based Web Scraping Technology [J]
+http://dl.acm.org/citation.cfm?id=2361395,"...   Scraping  emerged early in the history of the  web  as a mechanism for users to access and 
+repurpose individual information items from websites.  ...  The core of the system is a two-tier 
+ Python -based  web  application composed of three primary components.  ...  
+",Cited by 1,"R Mitchell - Boston: O\'Reilly Media, 2015.–256 с",Sift: an end-user tool for gathering web content on the go
+http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6183/pdf/imm6183.pdf,"Page 1. Algorithms for  Web   Scraping  Patrick Hagge Cording Kongens Lyngby 2011 
+Page 2. Technical  ...  Page 3. Abstract  Web   scraping  is the process of extracting and creating 
+a structured representa- tion of data from a  web  site. HTML  ...  
+",Cited by 4,"M Geel, T Church, MC Norrie - …  of the 2012 ACM symposium on  …, 2012 - dl.acm.org",Algorithms for Web Scraping
+https://books.google.com/books?hl=en&lr=&id=v3n4_AK8vu0C&oi=fnd&pg=PR3&dq=+python+web+scraping&ots=rfLEbiwwoy&sig=qtnvEnhIUmwlEJ1MzeN7MvVWW1Q,"...  17 1.usa.gov data from bit.ly 17 Counting Time Zones in Pure  Python  19 iii  ...  Data in Text Format 
+155 Reading Text Files in Pieces 160 Writing Data Out to Text Format 162 Manually Working 
+with Delimited Formats 163 JSON Data 165 XML and HTML:  Web   Scraping  166 Binary  ...  
+",Cited by 2,"PH Cording, K Lyngby - PDF] Available: http://www2. imm. dtu. dk/pubdb/ …, 2011 - imm.dtu.dk","Python for data analysis: Data wrangling with Pandas, NumPy, and IPython"
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2458086,"...  data that wasn't already public. Instead, we wrote a  Python  script to scrape large amounts of 
+already public data from the World Bank's  web  site.  ...  original micro survey data. This short paper 
+documents the data set produced by this  web - scraping  exercise, which  ...  
+",Cited by 162,W McKinney - 2012 - books.google.com,We Just Ran Twenty-Three Million Queries of the World Bank's Website
+http://www.eecs.umich.edu/courses/eecs589/papers/webbee.pdf,"...  The  scraping  engine is written in  Python  [24], and runs on any machine that has 
+the Apache  web  server [25] with the mod  python  module. Mod  python  is an Apache 
+module that embeds the  Python  interpreter within the server.  ...  
+",Cited by 2,"K Upatkoon, W Wang, S Jamin - Proc. of the 10th IFIP International  …, 2005 - eecs.umich.edu",WebBee: An Architecture for Web Accessibility for Mobile Devices
+http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6009445,"...  For Type II, we have not yet implemented a special translator, but we are using an existing 
+“ Web   scraping ” solution [21]. SDC handles two data formats, XML or JSON.  ...  Our  Web 
+application was implemented in  Python  using the  Python  Twisted Library.  ...  
+",Cited by 9,"T Suzumura, T Oiki - Web Services (ICWS), 2011 IEEE  …, 2011 - ieeexplore.ieee.org",StreamWeb: Real-time web monitoring with stream computing
+http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6970316,"...  tweets. The open-source  Python   web   scraping  framework Scrapy was used to crawl 
+pages that the links referred to. The server at microfilter.cs.uwaterloo.ca was granted 
+for MicroFilters by the University of Waterloo. Another  ...  
+",Cited by 2,"A Ilyas - Global Humanitarian Technology Conference (GHTC),  …, 2014 - ieeexplore.ieee.org",Microfilters: harnessing twitter for disaster management
+http://link.springer.com/chapter/10.1007/978-3-319-49094-6_18,"...  According to our results, from both surveys and  Web - scraping , the tools that ranked the most 
+popular (based on the references of 2016 and metrics from  Web - scraping , Tables 3 and 4) were 
+ Python , Selenium, Jenkins, TFS and Junit (in that particular order).  ...  
+",Cited by 1,"P Raulamo-Jurvanen, K Kakkonen… - Product-Focused Software  …, 2016 - Springer",Using Surveys and Web-Scraping to Select Tools for Software Testing Consultancy
+http://psycnet.apa.org/psycinfo/2016-25479-001/,"...  Third, we provide a case study and sample code in  Python  demonstrating how  web   scraping 
+can be conducted to collect big data along with links to a  web  tutorial designed for psychologists.  ... 
+Keywords: big data,  web   scraping , data source theory,  Python , tutorial  ...  
+",Cited by 2,"RN Landers, RC Brusso, KJ Cavanaugh, AB Collmus - 2016 - psycnet.apa.org",A Primer on Theory-Driven Web Scraping: Automatic Extraction of Big Data From the Internet for Use in Psychological Research.
+http://www.sciencedirect.com/science/article/pii/S009830041400243X,"...  A detailed overview of  Web  data  scraping  is provided by Glez-Peña et al.  ...  but to our knowledge these 
+scrapers no longer function (see 'CHCN' R package: http://cran.r-project.org/ web /packages/CHCN/ 
+CHCN.pdf, and 'Canadian Weather Stations  Python  Scraper': https  ...  
+",Cited by 2,"C Bonifacio, TE Barchyn, CH Hugenholtz… - Computers &  …, 2015 - Elsevier",CCDST: A free Canadian climate data scraping tool
+http://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/berktech29&section=26,"...  30, 2014). 36.  Web  search results for  scraping  yield informative blog posts,  python  and PHP 
+programming help for scrapers, software available for purchase, and how-to guides aimed at 
+the technically unsavy. See, eg, SCRAPY, http://scrapy.org (last visited Jan. 30, 2014).  ...  
+",Cited by 10,"JK Hirschey - Berkeley Tech. LJ, 2014 - HeinOnline",Symbiotic Relationships: Pragmatic Acceptance of Data Scraping
+https://books.google.com/books?hl=en&lr=&id=6J7fBQAAQBAJ&oi=fnd&pg=PR3&dq=+python+web+scraping&ots=b70Dy7yybf&sig=YQ-MC7I_hA44uQ2rnQ3z1T9FYRw,"...  3.3 3.4 4.1 5.1 6.1 6.2 6.3 7.1 7.2 8.1 8.2 9.1 9.2 9.3 10.1 11.1 11.2 D.1 D.2 D.3 D.4 D.5 D.6 
+Analysis of Browser Usage ( Python ) Analysis of Browser Usage (R) Website Traffic Analysis 
+(R) Extracting and  Scraping   Web  Site Data ( Python ) Extracting and  Scraping   Web  Site Data  ...  
+",Cited by 3,TW Miller - 2014 - books.google.com,Web and Network Data Science: Modeling Techniques in Predictive Analytics
+http://www.nyu.edu/projects/politicsdatalab/localdata/workshops/twitter.pdf,"...  2 Screen  scraping : extract data from source code of website, with html parser (easy) or regular 
+expression matching (less easy). Why R? It includes all tools necessary to do  web   scraping , 
+familiarity, direct analysis of data... But  python , perl, java are probably more efficient tools.  ...  
+",Cited by 1,P Barberá - 2013 - nyu.edu,NYU Politics Data Lab Workshop: Scraping Twitter and Web Data Using R
+https://kops.uni-konstanz.de/handle/123456789/3880,"...   Python  helps with almost all of the data management tasks I need. Two applications of 
+the language accompany my every day work: First, I use  Python  scripts to gener- ate data 
+sets from information provided at internet pages ( web   scraping ).  ...  
+",Cited by 1,"H Döring - The Political Methodologist, 2008 - kops.uni-konstanz.de",Evaluating scripting languages: How Python can help political methodologists
+https://books.google.com/books?hl=en&lr=&id=Q-cEMrCWckkC&oi=fnd&pg=PT5&dq=+python+web+scraping&ots=jvqFKlLe6T&sig=TnrJ7nJmbbwt1EAkw-kGfo17Gy8,"...  He has degrees in computer science, and over 10 years of experience in PHP, C++,  Python , 
+and Java.  ...  Page 14. Preface This book uses practical examples and step-by-step instructions to 
+guide you through the basic techniques required for  web   scraping  with PHP.  ...  
+",Cited by 1,J Ward - 2013 - books.google.com,Instant PHP Web Scraping
+https://books.google.com/books?hl=en&lr=&id=KT4BCgAAQBAJ&oi=fnd&pg=PP1&dq=+python+web+scraping&ots=BqToybnm28&sig=EAIZdldEYpN2jPgOjrruyCIxXMQ,"Page 1.  Python   Web  Penetration Testing Cookbook Over 60 indispensable  Python  recipes to 
+ensure you always have the right code on hand for  web  application testing Cameron Buchanan 
+Terry lp Andrew Mabbitt Benjamin May Dave Mound FUBL | SH | NG Page 2.  ...  
+",Cited by 1,"C Buchanan, T Ip, A Mabbitt, B May, D Mound - 2015 - books.google.com",Python Web Penetration Testing Cookbook
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.357.2652&rep=rep1&type=pdf#page=64,"...  Data can come from legacy sources, relational databases, or just making  Web   scraping ; but also  ... 
+projects description to build its database thanks to Ping The Semantic  Web  service  ...  scrapped 
+data from several sources including SourceForge, Freshmeat and the  Python  Pack- age  ...  
+",Cited by 7,"S Fernández - The 7th International Semantic Web Conference, 2008 - Citeseer","RDFohloh, a RDF wrapper of Ohloh"
+http://csiweb.ucd.ie/UserFiles/publications/1178110026850.pdf,"...  based virtual sensors described here use simple  web - scraping  but it would equally be possible 
+to take advantage of other techniques such as  web -services where these are available. A number 
+of entities have been written in different languages including  Python , Ruby, Java  ...  
+",Cited by 30,"L Coyle, S Neely, G Stevenson, M Sullivan… - International Journal of …, 2007 - csiweb.ucd.ie",Sensor fusion-based middleware for smart homes
+http://nar.oxfordjournals.org/content/34/suppl_2/W729.short,"...  Tools created using different programming languages (eg  Python , PERL, Java, etc.) and 
+platforms (eg Unix, Windows, etc.) can be accessed through the same  web  service interface.  ... 
+The need for fragile screen- scraping  integration scripts is reduced.  ...  
+",Cited by 987,"D Hull, K Wolstencroft, R Stevens, C Goble… - Nucleic acids  …, 2006 - Oxford Univ Press",Taverna: a tool for building and running workflows of services
+http://ceur-ws.org/Vol-1586/ldmc2.pdf,"...   Web   scraping  scripts, created dataset, machine learning process and model are available on 
+GitHub: https://github.com/jpotoniec/LDMC2016  ...  As the datasets for the challenge are quite small 
+(1592 different URIs), we did some  web  scrapping with  Python  and Scrapy5  ...  
+",Cited by 1,"J Potoniec - 5th Workshop on Knowledge Discovery and Data  …, 2016 - ceur-ws.org",Not-So-Linked Solution to the Linked Data Mining Challenge 2016
+http://www.nature.com/nature/journal/v417/n6885/full/417119a.html,"...  Each small change in a popular  web  page breaks dozens of screen- scraping  scripts, causing  ... 
+There is no published documentation of what a data source's  web  pages are supposed to  ... 
+engineers have developed re-usable code libraries in the Perl, Java,  Python  and Ruby  ...  
+",Cited by 410,"L Stein - Nature, 2002 - nature.com",Creating a bioinformatics nation
+https://books.google.com/books?hl=en&lr=&id=P0TsCQAAQBAJ&oi=fnd&pg=PP1&dq=+python+web+scraping&ots=43yZ6sPJbm&sig=kq8v7kTWjLbGXBFaP4S4eyI7tU8,"...  59 Retrieving albums 59 Interacting with reddit 60 Getting started with the reddit API 60 Registering 
+a new account 60 Modifying account information 61 Performing a simple search 62 Searching 
+subreddits 63 Summary 63 Chapter 6:  Web   Scraping  with  Python  Requests and  ...  
+",Cited by 2,"RV Chandra, BS Varanasi - 2015 - books.google.com",Python Requests Essentials
+https://books.google.com/books?hl=en&lr=&id=HMvf12TnJQIC&oi=fnd&pg=PR24&dq=+python+web+scraping&ots=sMfe2ATpFd&sig=0HQrvNjd9QvP6NQTEpYwfoLAntg,"...  312 What Now? . . . . 312  Python  and the  Web  ..... 313 Screen 
+ Scraping  . . . . . 313 Tidy and XHTML Parsing . . . . .  ...  
+",Cited by 61,ML Hetland - 2006 - books.google.com,Beginning Python: from novice to professional
+https://books.google.com/books?hl=en&lr=&id=XUaErakHsoAC&oi=fnd&pg=PP1&dq=+python+web+scraping&ots=5kjgIhoKpv&sig=e9uFOzJV5LjGKCEcnlMvAEGb3dc,"...  but that's never stopped hackers from fetching pages with automated clients and screen- scraping 
+the interesting  ...  chapter we cover three popular frameworks that make it easy to im- plement RESTful 
+ web  services: Ruby on Rails, Restlet (for Java), and Django (for  Python ).  ...  
+",Cited by 1914,"L Richardson, S Ruby - 2008 - books.google.com",RESTful web services
